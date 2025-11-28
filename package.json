@@ -1,0 +1,26 @@
+{
+  "name": "mock-aws-s3-v3-examples",
+  "version": "1.0.0",
+  "description": "Examples for mock-aws-s3-v3 library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxro/mock-aws-s3-v3-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mxro/mock-aws-s3-v3-examples/issues"
+  },
+  "homepage": "https://github.com/mxro/mock-aws-s3-v3-examples#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.940.0",
+    "mock-aws-s3-v3": "^6.1.1"
+  }
+}
