@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mxro/mock-aws-s3-v3-examples#readme",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.940.0",
+    "@aws-sdk/client-s3": "3.934.0",
     "mock-aws-s3-v3": "^6.1.1"
   }
 }
